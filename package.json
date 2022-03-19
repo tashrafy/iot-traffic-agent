@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tashrafy/repository.git"
+    "url": "git://github.com/tashrafy/iot-traffic-agent.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
