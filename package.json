@@ -2,7 +2,7 @@
   "name": "iot-traffic-agent",
   "description": "Scheduled job service to subscribe to IoT devices, collect, and aggregate traffic",
   "version": "1.0.0",
-  "main": "server/app.js",
+  "main": "server/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
